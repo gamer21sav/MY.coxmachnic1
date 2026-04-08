@@ -1,0 +1,55 @@
+body{
+    background: linear-gradient(black,blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image:url(imgs/IMG_5242.jpeg);
+    background-position: center;
+    background-size: cover;
+    margin: 5%;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+        border-top-style:outset;
+    border-bottom-style:outset; ;
+        border-left-style:outset; 
+        border-color:wheat; 
+        border-radius:5px;
+        background: linear-gradient(to left, black, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 10px;
+
+
+}
+h3{
+    color: white;
+    font-family: "Arial", sans-serif;
+}
+p{
+    color:white;
+    font-family: "Arial", sans-serif;
+}
+img{
+    width: 250px;
+
+}
+#box1{
+    text-align: center;
+    padding: 10%;
+    border: 5px solid wheat;
+    background: linear-gradient(to left, black, blue);
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+    height: auto;
+}
+#box2{
+    position: relative;
+    margin: -5%;
+    float:right;
+    
+
+    
+}

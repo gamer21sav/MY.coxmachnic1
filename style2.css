@@ -1,0 +1,62 @@
+body{
+      background: linear-gradient(black,blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image:url(imgs/IMG_5244.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+        border-top-style:outset;
+    border-bottom-style:outset; ;
+        border-left-style:outset; 
+        border-color:wheat; 
+        border-radius:5px;
+        background: linear-gradient(to left, black, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 10px;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+        border-top-style:outset;
+    border-bottom-style:outset; ;
+        border-left-style:outset; 
+        border-color:wheat; 
+        border-radius:5px;
+        background: linear-gradient(to left, black, blue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+h3{
+    color: white;
+    font-family: "Arial", sans-serif;
+}
+p{
+    color:wheat;
+    font-family: "Arial", sans-serif;
+   font-size:  40px; 
+}
+#lb{
+    color:wheat;
+    font-family: "Arial", sans-serif;
+    
+}
+#bk2{
+    border: 3px solid wheat;
+}
+table {
+  width: 100%;
+  background: linear-gradient(to left, black, blue);
+  border:3px;
+  text-align:center;
+}
